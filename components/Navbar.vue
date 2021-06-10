@@ -17,15 +17,15 @@
         <div class="space-x-8">
           <a
             href="#work"
-            class="text-gray-300 font-bold"
+            class="text-gray-300 font-bold nav-menu-button"
           >Work</a>
           <a
             href="#about"
-            class="text-gray-300 font-bold"
+            class="text-gray-300 font-bold nav-menu-button"
           >About</a>
           <a
             href="#contact"
-            class="text-gray-300 font-bold"
+            class="text-gray-300 font-bold nav-menu-button"
           >Contact</a>
         </div>
       </div>
